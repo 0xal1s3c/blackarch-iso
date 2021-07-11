@@ -3,6 +3,9 @@ arch-install-scripts
 archlinux-keyring
 b43-fwcutter
 base
+base-devel
+dkms
+8192eu-dkms
 bind-tools
 blackarch-installer
 blackarch-keyring
